@@ -1,7 +1,7 @@
 ## Hi there 👋, I'am **Ririn** from **Ponorogo**
 I'm a passionated high school student at **SMKN 1 Jenangan** with a deep love for coding and technology.
 
-####💻 **Technologies & Tools I'm Exploring**
+#### 💻 **Technologies & Tools I'm Exploring**
 - **HTML** 🌐
 - **CSS** 🎨
 - **Python** 🐍
